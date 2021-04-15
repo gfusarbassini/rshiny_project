@@ -7,7 +7,7 @@ I've been in an athletics team for ten years and our website has always been the
 
 ## Features
 ### Athlete
-The interface is pretty intuitive, the main goal is to watch an athlete progression in specific disciplines during time. You can choose an athlete by typing her/his name in the box. The first atlhete in the list is displayed by default. The list of athletes is displayed in the side panel as well.
+The interface is pretty intuitive, the main goal is to watch an athlete progression in specific disciplines during time. You can choose an athlete by typing her/his name in the box. The first athlete in the list is displayed by default. The list of athletes is displayed in the side panel as well.
 
 ### Discipline
 The available discipline displayed are the only one that the specific athlete ever raced in, thus this list changes every time the user selects a different person. Some athletes are registered but never raced.
